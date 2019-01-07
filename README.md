@@ -1,4 +1,5 @@
 # Game project
+Hosting: [Ice wastelands](https://f8b23lef.github.io/game/ "Ice wastelands")
 
 ## Install Dependencies
 `npm install`
